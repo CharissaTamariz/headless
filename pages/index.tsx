@@ -1,9 +1,5 @@
 const Home = () => (
-  <h1>I'm Live </h1> 
-<button>I'm not a Cat</button>
-
-</body>
-</html>
+  <h1>I'm here live. I'm not a cat. </h1> 
 );
 
 export default Home;
