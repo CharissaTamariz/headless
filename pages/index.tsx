@@ -1,3 +1,4 @@
+const Home = () => (
 <!DOCTYPE html>
 <html>
   <head>
@@ -9,3 +10,6 @@
     <p>Welcome to <%= title %></p>
   </body>
 </html>
+);
+
+export default Home;
